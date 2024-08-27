@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["lily58/rev1", "roberte777"]
+        ["lily58/rev1", "roberte777", {"CONVERT_TO": "promicro_rp2040"}]
     ]
 }
